@@ -194,7 +194,7 @@ window.allArticles = [
     {
         id: 20,
         article: 'kak-pomoch-rebyonku-vybrat-professiyu',
-        articleTitle: '123Как помочь ребёнку выбрать профессию',
+        articleTitle: 'Как помочь ребёнку выбрать профессию',
         articleDescription: 'Как родителям помочь ребенку выбрать профессию? Почему подросткам сложно, как понять склонности, связь с&nbsp;предметами, типичные ошибки и&nbsp;советы по&nbsp;профориентации.',
         date: '2026-02-13',
         image: 'https://static.tildacdn.com/tild3131-6435-4166-a234-643539343835/d_2.png',
